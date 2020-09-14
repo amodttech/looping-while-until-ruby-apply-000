@@ -6,3 +6,5 @@ until levitation_force == 20
   counter += 1
 end
 end
+
+using_until
